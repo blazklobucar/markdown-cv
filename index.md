@@ -17,32 +17,29 @@ Standing on the shoulders of giants
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Urban forestry, remote sensing, spatial analysis
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Assessments of urban vegetation and change detection, socio-ecological interactions
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2017-2021`
+__PhD in Landscape Planning, Swedish University of Agricultural Sciences (SLU), Dept of Landscape Architecture, Planning and Management__
 
-- Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2013`
+__Master's of Forestry Science, University of Ljubljana__
 
 
 
-## Awards
+
+
+## Teaching experience
 
 `2012`
 President, *Royal Society*, London, UK

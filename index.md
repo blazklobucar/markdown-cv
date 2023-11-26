@@ -13,11 +13,17 @@ PhD in Landscape Planning.
 
 ## Currently
 
-Researcher at Swedish University of Agricultural Sciences, Department of Landscape Architecture, Planning and Management
+Researcher at Swedish University of Agricultural Sciences, Department of Landscape Architecture, Planning and Management | Sentinel Hub Partner
 
 ### Specialized in
 
 Urban forestry, remote sensing, spatial analysis
+
+
+
+### Research interests
+
+Assessments of urban vegetation and change detection; governance and management of urban green spaces; nature-based solutions; socio-ecological interactions in urban areas; monitoring of ecosystem services
 
 ### Skills
 * Microsoft Office
@@ -29,10 +35,6 @@ Urban forestry, remote sensing, spatial analysis
 * Spatial analysis and digitalization
 * Public speaking and presentation
 * Slovene, Swedish, English language professional proeficiency
-
-### Research interests
-
-Assessments of urban vegetation and change detection; governance and management of urban green spaces; nature-based solutions; socio-ecological interactions in urban areas; monitoring of ecosystem services
 
 
 ## Education
@@ -50,7 +52,7 @@ __Master's of Forestry Science, University of Ljubljana__
 ## Teaching experience
 
 `2018-2022`
-Guest lecture in the following courses
+Guest lecturer in the following courses
 * Landskapsförvaltning & Skötsel av grönytor och naturmarker (Landscape Management course)
 * Trädvårdskursen (Tree care course)
 * Urban Forestry - management of urban forests and trees
@@ -94,6 +96,6 @@ environments with remote sensing and Volunteered Geographic Information
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: November 2023 -->
 
 

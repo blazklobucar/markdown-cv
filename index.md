@@ -3,7 +3,7 @@ layout: cv
 title: Blaz Klobucar's CV
 ---
 # Blaz Klobucar
-PhD in Landscape Planning.
+PhD in Landscape Planning
 
 
 

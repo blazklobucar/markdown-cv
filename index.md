@@ -85,6 +85,28 @@ Guest lecturer in the following courses
 environments with remote sensing and Volunteered Geographic Information. 6-month grant.
 * `2023` Large tree survival rate using historical aerial photography. 6-month grant.
 
+## GIS Courses and Workshops attended
+
+### Courses at university and PhD level
+* ESF 300 Introduction to Geospatial Information Technology (State University of New York)
+(GIS, GPS, Digitalization, database management, Remote sensing for environmental science and natural resource management)
+* Introduction to applied spatial statistics, SLU Umeå (Nearest neighbor summary statistics, Spatial point pattern analysis using R)
+* Advanced Digital Landscape Analysis, SLU Alnarp (Geodesign, Landscape modelling, Landscape analysis)
+* Spatial Statistics and Remote Sensing for Doctoral Researchers, SLU Alnarp (Remote sensing for urban vegetation, Atmospheric correction and supervised classification, Spatial sampling design, Spatial regression methods
+
+### ESRI Training MOOC Certificates
+* Cartography
+* Imagery In Action
+* Spatial Analysis
+* Spatial Data Science
+* GIS for Climate Change
+* Do-It-Yourself GeoApps
+
+
+
+
+
+
   
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 

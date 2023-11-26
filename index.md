@@ -9,7 +9,9 @@ PhD in Landscape Planning.
 
 ## Currently
 
-Researcher at SLU Alnarp | Sentinel Hub Partner
+
+Researcher at SLU Alnarp / Sentinel Hub Partner
+
 
 ## Specialized in
 

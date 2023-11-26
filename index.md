@@ -43,7 +43,7 @@ PhD in Landscape Planning, Swedish University of Agricultural Sciences (SLU), De
 
 
 `2013`
-Master's of Forestry Science, University of Ljubljana
+Master's degree in Forestry Science, University of Ljubljana, Biotechnical Faculty
 
 
 

@@ -38,19 +38,16 @@ Assessments of urban vegetation and change detection; governance and management 
 ## Education
 
 
-`2017-2021`
-PhD in Landscape Planning, Swedish University of Agricultural Sciences (SLU), Dept of Landscape Architecture, Planning and Management
+`2017-2021` PhD in Landscape Planning, Swedish University of Agricultural Sciences (SLU), Dept of Landscape Architecture, Planning and Management
 
 
-`2013`
-Master's degree in Forestry Science, University of Ljubljana, Biotechnical Faculty
+`2013` Master's degree in Forestry Science, University of Ljubljana, Biotechnical Faculty
 
 
 
 ## Teaching experience
 
-`2018-2022`
-Guest lecturer in the following courses
+`2018-2022` Guest lecturer in the following courses:
 * Landskapsförvaltning & Skötsel av grönytor och naturmarker (Landscape Management course)
 * Trädvårdskursen (Tree care course)
 * Urban Forestry - management of urban forests and trees

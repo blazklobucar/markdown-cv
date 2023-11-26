@@ -5,13 +5,6 @@ title: Blaz Klobucar's CV
 # Blaz Klobucar
 PhD in Landscape Planning.
 
-<div id="webaddress1">
-    <a href="mailto:blaz.klobucar@gmail.com">blaz.klobucar@gmail.com</a>
-</div>
-<div id="webaddress2">
-    <a href="mailto:blaz.klobucar@slu.se">blaz.klobucar@slu.se</a>
-</div>
-
 
 
 ## Currently

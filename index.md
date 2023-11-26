@@ -11,17 +11,17 @@ PhD in Landscape Planning.
 
 Researcher at SLU Alnarp | Sentinel Hub Partner
 
-### Specialized in
+## Specialized in
 
 Urban forestry, remote sensing, spatial analysis
 
 
 
-### Research interests
+## Research interests
 
 Assessments of urban vegetation and change detection; governance and management of urban green spaces; nature-based solutions; socio-ecological interactions in urban areas; monitoring of ecosystem services
 
-### Skills
+## Skills
 * Microsoft Office
 * Adobe Photoshop/Illustrator/InDesign
 * R, Python

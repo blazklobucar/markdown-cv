@@ -23,7 +23,7 @@ Assessments of urban vegetation and change detection; governance and management 
 
 ### Skills
 * Microsoft Office
-* Adobe PS/IL/ID
+* Adobe Photoshop/Illustrator/InDesign
 * R, Python
 * ArcMap, ArcGIS Pro
 * QGIS
@@ -37,11 +37,11 @@ Assessments of urban vegetation and change detection; governance and management 
 
 
 `2017-2021`
-__PhD in Landscape Planning, Swedish University of Agricultural Sciences (SLU), Dept of Landscape Architecture, Planning and Management__
+PhD in Landscape Planning, Swedish University of Agricultural Sciences (SLU), Dept of Landscape Architecture, Planning and Management
 
 
 `2013`
-__Master's of Forestry Science, University of Ljubljana__
+Master's of Forestry Science, University of Ljubljana
 
 
 

@@ -9,7 +9,7 @@ PhD in Landscape Planning.
 
 ## Currently
 
-Researcher at Swedish University of Agricultural Sciences, Department of Landscape Architecture, Planning and Management | Sentinel Hub Partner
+Researcher at SLU Alnarp | Sentinel Hub Partner
 
 ### Specialized in
 

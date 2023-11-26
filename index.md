@@ -84,8 +84,8 @@ Guest lecturer in the following courses
 
 ### FOMA (Environmental monitoring and analysis)
 * `2022` Monitoring the provision and condition of high‐value restorative outdoor
-environments with remote sensing and Volunteered Geographic Information
-* `2023` Large tree survival rate using historical aerial photography
+environments with remote sensing and Volunteered Geographic Information. 6-month grant.
+* `2023` Large tree survival rate using historical aerial photography. 6-month grant.
 
   
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->

@@ -60,11 +60,11 @@ Guest lecturer in the following courses
 
 ## Scientific Publications
 
-* Klobucar, B., 2021. Residential Urban Forest Assessment Methodologies: A Management Perspective. Doctoral thesis
-* Klobucar, B., Östberg, J., Wiström, B., Jansson, M., 2021. Residential urban trees – socio-ecological factors affecting tree and shrub abundance in the city of Malmö, Sweden. _Urban Forestry & Urban Greening_.
-* Klobucar, B., Sang, N., Randrup, T. B., 2021. Comparing ground and remotely sensed measurements of urban tree canopy in private residential property. _Trees, Forests and People_.
-* Klobucar, B., Östberg, J., Jansson, M., Randrup, T. B., 2020. Long-Term Validation and Governance Role in Contemporary Urban Tree Monitoring: A Review. _Sustainability_.
-* Wiström, B., Busse Nielsen, A., Klobucar, B., Klepec, U., 2015. Zoned selective coppice – A management system for graded forest edges. _Urban Forestry & Urban Greening_
+* [Klobucar, B., 2021. Residential Urban Forest Assessment Methodologies: A Management Perspective. Doctoral thesis](https://pub.epsilon.slu.se/23487/3/klobucar_b_210517.pdf)
+* [Klobucar, B., Östberg, J., Wiström, B., Jansson, M., 2021. Residential urban trees – socio-ecological factors affecting tree and shrub abundance in the city of Malmö, Sweden. _Urban Forestry & Urban Greening_](https://www.sciencedirect.com/science/article/pii/S1618866721001436?via%3Dihub)
+* [Klobucar, B., Sang, N., Randrup, T. B., 2021. Comparing ground and remotely sensed measurements of urban tree canopy in private residential property. _Trees, Forests and People_](https://www.sciencedirect.com/science/article/pii/S2666719321000534)
+* [Klobucar, B., Östberg, J., Jansson, M., Randrup, T. B., 2020. Long-Term Validation and Governance Role in Contemporary Urban Tree Monitoring: A Review. _Sustainability_](https://www.mdpi.com/2071-1050/12/14/5589)
+* [Wiström, B., Busse Nielsen, A., Klobucar, B., Klepec, U., 2015. Zoned selective coppice – A management system for graded forest edges. _Urban Forestry & Urban Greening_](https://www.sciencedirect.com/science/article/abs/pii/S1618866715000059?via%3Dihub)
 
 ## Conference presentations and collaborations
 * `July 2022` Sinergise Summer School. Ljubljana, Slovenia. Workshop: Earth Observation-from satellite imagery to modern applications

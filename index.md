@@ -37,11 +37,10 @@ Assessments of urban vegetation and change detection; governance and management 
 
 ## Education
 
+`2017-2021` PhD in Landscape Planning, Swedish University of Agricultural Sciences (SLU), Dept of Landscape Architecture, Planning and Management
 
-* `2017-2021` PhD in Landscape Planning, Swedish University of Agricultural Sciences (SLU), Dept of Landscape Architecture, Planning and Management
 
-
-* `2013` Master's degree in Forestry Science, University of Ljubljana, Biotechnical Faculty
+`2013` Master's degree in Forestry Science, University of Ljubljana, Biotechnical Faculty
 
 
 
@@ -99,7 +98,11 @@ environments with remote sensing and Volunteered Geographic Information. 6-month
 * GIS for Climate Change
 * Do-It-Yourself GeoApps
 
+## Contact and Socials
 
+[Email](mailto:blaz.klobucar@gmail.com)
+[ResearchGate profile](https://www.researchgate.net/profile/Blaz-Klobucar-2)
+[LinkedIn profile](https://www.linkedin.com/in/blazklobucar/)
 
 
 

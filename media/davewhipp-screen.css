@@ -55,7 +55,7 @@ table {
     left: 0;
     width: 100px; /* Adjust the width as needed */
     height: auto; /* This keeps the aspect ratio intact */
-    border-radius: 50%; /* Optional: for circular images */
+    /*border-radius: 50%; /* Optional: for circular images */
     border: 2px solid #fff; /* Optional: adds a border around the image */
     box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Optional: adds a subtle shadow */
 }

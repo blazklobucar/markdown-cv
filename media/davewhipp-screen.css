@@ -53,7 +53,7 @@ table {
     position: absolute;
     top: 0;
     left: 0;
-    width: 20px; /* Adjust the width as needed */
+    width: 50px; /* Adjust the width as needed */
     height: auto; /* This keeps the aspect ratio intact */
     border-radius: 50%; /* Optional: for circular images */
     border: 2px solid #fff; /* Optional: adds a border around the image */

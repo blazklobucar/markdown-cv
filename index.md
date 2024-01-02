@@ -81,6 +81,11 @@ Assessments of urban vegetation and change detection; governance and management 
 environments with remote sensing and Volunteered Geographic Information. 6-month grant.
 * `2023` Large tree survival rate using historical aerial photography. 6-month grant.
 
+## Rewiever at following international journals:
+
+* Urban Forestry & Urban Greening
+* Trees, Forests and People
+
 ## GIS Courses and Workshops attended
 
 ### Courses at university and PhD level

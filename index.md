@@ -10,12 +10,12 @@ PhD in Landscape Planning
 ## Currently
 
 
-Researcher at SLU Alnarp / Sentinel Hub Partner
+Researcher at Swedish University of Agricultural Sciences, Department of Landscape Architecture, Planning and Management / Sentinel Hub Partner
 
 
 ## Specialized in
 
-Urban forestry, remote sensing, spatial analysis
+Urban Forestry, Remote Sensing, Spatial Analysis
 
 
 
@@ -74,14 +74,14 @@ Assessments of urban vegetation and change detection; governance and management 
 
 ### FORMAS (Swedish research council for sustainable development)
 * `2023` Early-career researcher grant. Awarded a 4 year funding for the project titled: "Historical urban tree cover change and the potential implications for sustainable urban planning".
-* `2016` Open call. Awarded 3 year funding for a doctoral grant titled: "Ecosystem services of private residential urban trees".
+* `2016` Open call. Awarded a 3 year doctoral grant titled: "Ecosystem services of private residential urban trees".
 
 ### FOMA (Environmental monitoring and analysis)
 * `2022` Monitoring the provision and condition of high‐value restorative outdoor
 environments with remote sensing and Volunteered Geographic Information. 6-month grant.
 * `2023` Large tree survival rate using historical aerial photography. 6-month grant.
 
-## Rewiever at following international journals:
+## Reviewer at the following international journals:
 
 * Urban Forestry & Urban Greening
 * Trees, Forests and People

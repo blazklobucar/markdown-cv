@@ -45,12 +45,16 @@ Assessments of urban vegetation and change detection; governance and management 
 
 
 ## Teaching experience
+### Swedish University of Agricultural Sciences
 
-`2018-2022` Guest lecturer in the following courses:
+`2018-2023` Guest lecturer in the following courses:
 * Landskapsförvaltning & Skötsel av grönytor och naturmarker (Landscape Management course)
 * Trädvårdskursen (Tree care course)
 * Urban Forestry - management of urban forests and trees
 * Planeringens grunden (Introduction to planning)
+
+`Spring Term 2024` Course leader in 
+* Independent project in Landscape Architecture (EX1011) for Bachelor thesis in the international program Forest and Landscape
 
 
 

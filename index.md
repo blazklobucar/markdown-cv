@@ -54,7 +54,7 @@ Assessments of urban vegetation and change detection; governance and management 
 * Planeringens grunden (Introduction to planning)
 
 `Spring Term 2024` Course leader in 
-* Independent project in Landscape Architecture (EX1011) for Bachelor thesis in the international program Forest and Landscape
+* [Independent project in Landscape Architecture (EX1011)](https://www.slu.se/en/education/programmes-courses/course/EX1011/40056.2425) in the international Bachelor's program [Forest and Landscape](https://www.slu.se/en/education/programmes-courses/bachelors-programmes/forest-and-landscape/)
 
 
 

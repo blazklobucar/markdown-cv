@@ -82,7 +82,7 @@ Assessments of urban vegetation and change detection; governance and management 
 
 ### FOMA (Environmental monitoring and analysis)
 * `2022` Monitoring the provision and condition of high‐value restorative outdoor
-environments with remote sensing and Volunteered Geographic Information. 6-month grant.
+environments with remote sensing and Volunteered Geographic Information. 6-month grant. [link to report[(https://publications.slu.se/?file=publ/show&id=127532&lang=en)
 * `2023` Large tree survival rate using historical aerial photography. 6-month grant.
 
 ## Reviewer at the following international journals:
@@ -110,8 +110,10 @@ environments with remote sensing and Volunteered Geographic Information. 6-month
 ## Contact and Socials
 
 [Email](mailto:blaz.klobucar@gmail.com)
+[WORK-BLOG](https://medium.com/@blazklobucar)
 [ResearchGate profile](https://www.researchgate.net/profile/Blaz-Klobucar-2)
 [LinkedIn profile](https://www.linkedin.com/in/blazklobucar/)
+
 
 
 

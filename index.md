@@ -7,9 +7,12 @@ PhD in Landscape Planning
 
 ## Contact and Socials
 
+[BLOG](https://medium.com/@blazklobucar)
+
 [Email](mailto:blaz.klobucar@gmail.com)
-[WORK-BLOG](https://medium.com/@blazklobucar)
+
 [ResearchGate profile](https://www.researchgate.net/profile/Blaz-Klobucar-2)
+
 [LinkedIn profile](https://www.linkedin.com/in/blazklobucar/)
 
 

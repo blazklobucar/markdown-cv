@@ -10,6 +10,14 @@ PhD in Landscape Planning.
 | <div id="webaddress"> <a href="blaz.klobucar@slu.se">blaz.klobucar@slu.se</a>
 </div>
 
+## Short Bio
+Passionate about the intersection of urban ecosystems and sustainable development, I am an urban forestry researcher with expertise in landscape planning, remote sensing, and interdisciplinary research methodologies. With a keen interest in the  dynamics between urban environments and their ecological systems, my work focuses on harnessing cutting-edge remote sensing techniques to study and manage urban forests.
+
+My academic background encompasses a blend of environmental science, geography, and urban planning, providing me with a holistic perspective on urban landscapes. Through interdisciplinary collaboration, I aim to develop innovative strategies for urban forest management and green infrastructure planning that enhance the resilience and sustainability of cities.
+
+With a track record of conducting research projects that bridge the gap between theory and practice, I am committed to generating actionable insights that inform evidence-based decision-making in urban planning and environmental management. My dedication to fostering sustainable urban development drives my ongoing pursuit of novel methodologies and approaches in the field of urban forestry.
+
+As a researcher, I am enthusiastic about leveraging my expertise to address pressing challenges related to urbanization, biodiversity conservation, and climate change adaptation. I am adept at communicating complex scientific concepts to diverse audiences and thrive in collaborative environments where diverse perspectives converge to create impactful solutions.
 
 ## Currently
 

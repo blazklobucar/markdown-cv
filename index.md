@@ -102,7 +102,7 @@ Assessments of urban vegetation and change detection; governance and management 
 ### FOMA (Environmental monitoring and analysis)
 * `2022` Monitoring the provision and condition of high‐value restorative outdoor
 environments with remote sensing and Volunteered Geographic Information. 6-month grant. [link to report](https://publications.slu.se/?file=publ/show&id=127532&lang=en)
-* `2023` Large tree survival rate using historical aerial photography. 6-month grant.
+* `2023` Large tree survival rate using historical aerial photography. 6-month grant. [link to report](https://publications.slu.se/?file=publ/show&id=129259)
 
 ## Reviewer at the following international journals:
 

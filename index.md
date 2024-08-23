@@ -104,10 +104,11 @@ Assessments of urban vegetation and change detection; governance and management 
 environments with remote sensing and Volunteered Geographic Information. 6-month grant. [link to report](https://publications.slu.se/?file=publ/show&id=127532&lang=en)
 * `2023` Urban Tree Detection in Historical Aerial Imagery of Sweden. 6-month grant. [link to report](https://publications.slu.se/?file=publ/show&id=129259)
 
-## Reviewer at the following international journals:
+## Reviewer at the following international peer-review journals:
 
-* Urban Forestry & Urban Greening
-* Trees, Forests and People
+* Urban Forestry & Urban Greening [link to journal](https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening)
+* Trees, Forests and People [link to journal](https://www.sciencedirect.com/journal/trees-forests-and-people)
+* Environmental Monitoring and Assessment [link to journal](https://link.springer.com/journal/10661)
 
 ## GIS Courses and Workshops attended
 

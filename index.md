@@ -32,9 +32,9 @@ As a researcher, I am enthusiastic about leveraging my expertise to address pres
 Researcher at Swedish University of Agricultural Sciences / Sentinel Hub Partner
 
 
-## Specialized in
+## Expertise in:
 
-Urban Forestry, Remote Sensing, Spatial Analysis
+Urban Forestry, Remote Sensing, Spatial Analysis, GIS
 
 
 
@@ -66,17 +66,17 @@ Assessments of urban vegetation and change detection; governance and management 
 ## Teaching experience and training
 ### Swedish University of Agricultural Sciences
 
-`2018-now` Guest lecturer and teaching assistance in the following courses:
+`2018-now` **Guest lecturer** and teaching assistance in the following courses:
 * Landskapsförvaltning & Skötsel av grönytor och naturmarker (Landscape Management course)
 * Trädvårdskursen (Tree care course)
 * Urban Forestry - management of urban forests and trees
 * Planeringens grunden (Introduction to planning)
 * Advanced Digital Landscape Analysis with GIS
 
-`Spring Term 2024-now` Course leader in 
+`Spring Term 2024-now` **Course leader**: 
 * [Independent project in Landscape Architecture (EX1011)](https://www.slu.se/en/education/programmes-courses/course/EX1011/40056.2425) in the international Bachelor's program [Forest and Landscape](https://www.slu.se/en/education/programmes-courses/bachelors-programmes/forest-and-landscape/)
 
-`2014-now` Pedagogical courses passed
+`2014-now` **Pedagogical qualifications**:
 * Course in Grading and Assessment
 * Teaching in Higher Education, basic course
 
